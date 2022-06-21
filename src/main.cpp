@@ -1,10 +1,11 @@
 #include <iostream>
-#include <cstring>
 #include <fstream>
+#include <string>
 
-int main(){
+using namespace std;
 
-
+int main()
+{
 
     return 0;
 }
